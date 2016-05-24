@@ -8,15 +8,15 @@
       "id": "bd7158d8c442eddfaeb5bd17",
       "title": "Build a JavaScript Calculator",
       "description": [
-        "<strong>Objective:</strong> Build a <a href='http://codepen.io' target='_blank'>CodePen.io</a> app that is functionally similar to this: <a href='http://codepen.io/FreeCodeCamp/full/zrRzMR' target='_blank'>http://codepen.io/FreeCodeCamp/full/zrRzMR</a>.",
-        "<strong>Rule #1:</strong> Don't look at the example project's code. Figure it out for yourself.",
-        "<strong>Rule #2:</strong> Fulfill the below <a href='http://en.wikipedia.org/wiki/User_story' target='_blank'>user stories</a>. Use whichever libraries or APIs you need. Give it your own personal style.",
-        "<strong>User Story:</strong> I can add, subtract, multiply and divide two numbers.",
-        "<strong>User Story:</strong> I can clear the input field with a clear button.",
-        "<strong>User Story:</strong> I can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.",
-        "Remember to use <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Read-Search-Ask</a> if you get stuck.",
-        "When you are finished, click the \"I've completed this challenge\" button and include a link to your CodePen. ",
-        "You can get feedback on your project from fellow campers by sharing it in our <a href='//gitter.im/freecodecamp/codereview' target='_blank'>Code Review Chatroom</a>. You can also share it on Twitter and your city's Campsite (on Facebook)."
+        "<strong>目标：</strong> 建立一个功能如下的 <a href='http://codepen.io' target='_blank'>CodePen.io</a> 应用： <a href='http://codepen.io/FreeCodeCamp/full/zrRzMR' target='_blank'>http://codepen.io/FreeCodeCamp/full/zrRzMR</a>.",
+        "<strong>规则 #1:</strong> 别看范例项目的代码。自个儿琢磨琢磨。",
+        "<strong>规则 #2:</strong> 满足下列 <a href='http://en.wikipedia.org/wiki/User_story' target='_blank'>用户故事</a>。使用任何你所需的代码库或者API。写出你自己的风格来。",
+        "<strong>用户故事：</strong> 我可以加减乘除两个数字。",
+        "<strong>用户故事：</strong> 我可以用一个清除按钮消掉输入字段。",
+        "<strong>用户故事：</strong> 我可以做一连串的数学运算一直到我点击等于按钮，然后计算机就会告诉我正确答案。",
+        "如果你遇到障碍的话，记得使用 <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>阅读-搜索-询问</a>。",
+        "当你完成以后，点击 \"我已经完成了这项挑战\" 按钮并附加你CodePen的链接。",
+        "在 <a href='//gitter.im/freecodecamp/codereview' target='_blank'>代码评论聊天室</a> 分享你的作品的话，你可以得到其他营友的反馈。你也可以在维特还有你城市的营地（脸书）上分享。"
       ],
       "challengeSeed": [
         "126411565"
