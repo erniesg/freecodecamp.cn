@@ -31,7 +31,7 @@
       "title": "Build a Pomodoro Clock",
       "description": [
         "<strong>目标：</strong> 建立一个功能如下的 <a href='http://codepen.io' target='_blank'>CodePen.io</a> 应用： <a href='http://codepen.io/FreeCodeCamp/full/VemPZX' target='_blank'>http://codepen.io/FreeCodeCamp/full/VemPZX</a>.",
-        "<strong>规则 #1：</strong> 别看范例项目的代码。自个儿琢磨琢磨",
+        "<strong>规则 #1：</strong> 别看范例项目的代码。自个儿琢磨琢磨.",
         "<strong>规则 #2：</strong> 满足下列的 <a href='http://en.wikipedia.org/wiki/User_story' target='_blank'>用户故事</a>。使用任何你所需的代码库或者API。写出你自己的风格来。",
         "<strong>用户故事：</strong> 我可以开始一个25分钟的番茄钟，而且25分钟后计时器会终止。",
         "<strong>用户故事：</strong> 我可以为下一个番茄钟重置闹钟。",
@@ -52,12 +52,12 @@
       "id": "bd7158d8c442eedfaeb5bd1c",
       "title": "Build a Tic Tac Toe Game",
       "description": [
-        "<strong>Objective:</strong> Build a <a href='http://codepen.io' target='_blank'>CodePen.io</a> app that is functionally similar to this: <a href='http://codepen.io/FreeCodeCamp/full/adBpvw' target='_blank'>http://codepen.io/FreeCodeCamp/full/adBpvw</a>.",
-        "<strong>Rule #1:</strong> Don't look at the example project's code. Figure it out for yourself.",
-        "<strong>Rule #2:</strong> Fulfill the below <a href='http://en.wikipedia.org/wiki/User_story' target='_blank'>user stories</a>. Use whichever libraries or APIs you need. Give it your own personal style.",
-        "<strong>User Story:</strong> I can play a game of Tic Tac Toe with the computer.",
-        "<strong>User Story:</strong> My game will reset as soon as it's over so I can play again.",
-        "<strong>User Story:</strong> I can choose whether I want to play as X or O.",
+        "<strong>目标：</strong> 建立一个功能如下的 <a href='http://codepen.io' target='_blank'>CodePen.io</a> 应用： <a href='http://codepen.io/FreeCodeCamp/full/adBpvw' target='_blank'>http://codepen.io/FreeCodeCamp/full/adBpvw</a>.",
+        "<strong>规则 #1：</strong> 别看范例项目的代码。自个儿琢磨琢磨。",
+        "<strong>规则 #2：</strong> 满足下列的 <a href='http://en.wikipedia.org/wiki/User_story' target='_blank'>用户故事</a>。使用任何你所需的代码库或者API。写出你自己的风格来。",
+        "<strong>用户故事：</strong> 我可以和电脑玩井字棋。",
+        "<strong>用户故事：</strong> 我的游戏一旦结束就会重启，这样子我就可以一再地玩。",
+        "<strong>用户故事：</strong> 我可以选择要以 X 或者 O 玩。",
         "如果你遇到障碍的话，记得使用 <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>阅读-搜索-询问</a>。",
         "当你完成以后，点击 \"我已经完成了这项挑战\" 按钮并附加你CodePen的链接。",
         "在 <a href='//gitter.im/freecodecamp/codereview' target='_blank'>代码评论聊天室</a> 分享你的作品的话，你可以得到其他营友的反馈。你也可以在维特还有你城市的营地（脸书）上分享。"
